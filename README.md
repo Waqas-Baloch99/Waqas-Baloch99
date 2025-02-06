@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/waqas-baloch)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:waqaskhosa99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=google-chrome)](your-portfolio-link)
+[![Portfolio](https://github.com/waqas-Baloch99/portfolio)](your-portfolio-link)
 
 ## 🚀 About Me  
 I'm a **Full Stack Python Developer** with a growing interest in **AI & Machine Learning**. Passionate about building scalable applications and leveraging AI to solve real-world problems!
