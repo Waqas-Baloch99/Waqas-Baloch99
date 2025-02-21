@@ -1,50 +1,71 @@
-# Hi there, I'm Waqas Baloch! 👋  
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20There!-Waqas%20Baloch-blueviolet?style=for-the-badge&logo=wave" alt="Waqas Baloch">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/waqas-baloch)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:waqaskhosa99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge&logo=github)](https://github.com/Waqas-Baloch99/portfolio)
-
-## 🚀 About Me  
-I'm a **Full Stack Python Developer** with a passion for **AI & Machine Learning**. I love building scalable applications and leveraging AI to solve real-world problems!  
-
-### 🔍 What I'm up to:
-- 🔨 **Currently working on:** My portfolio website using Django & React  
-- 📖 **Currently learning:** AI/ML with Python, TensorFlow, and Scikit-learn  
-- 🤝 **Looking to collaborate on:** AI-driven applications, open-source projects, and SaaS solutions  
-- 💬 **Ask me about:** Django, REST APIs, Web Security, AI/ML Basics  
-- ⚡ **Fun fact:** I once automated a task that saved hours of manual work every week!  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages & Frameworks  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-
-### 🗄️ Databases & Cloud  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-
-### 🤖 AI/ML Tools  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+<p align="center">
+  <a href="https://www.linkedin.com/in/waqas-baloch">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:waqaskhosa99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Waqas-Baloch99/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
-## 🌐 Let's Connect!  
-📧 **Email:** [waqaskhosa99@gmail.com](mailto:waqaskhosa99@gmail.com)  
-💼 **LinkedIn:** [Waqas Baloch](https://www.linkedin.com/in/waqas-baloch)  
-🚀 **Portfolio:** [Check out my work!](https://github.com/Waqas-Baloch99/portfolio)  
+## 🌟 About Me  
+Full Stack Python Developer | AI & ML Enthusiast  
+I craft scalable solutions and harness AI to solve real-world problems with code that’s clean, efficient, and impactful.
+
+### 🔥 What’s Cooking  
+- **Building:** Portfolio site with Django + React  
+- **Learning:** AI/ML (Python, TensorFlow, Scikit-learn)  
+- **Collab Goals:** AI apps, open-source, SaaS projects  
+- **Chat About:** Django, APIs, Security, AI Basics  
+- **Fun Byte:** Automated a task to save hours weekly!  
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waqas-Baloch99&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Baloch99&layout=compact&theme=radical)  
+## 🧰 Tech Arsenal  
 
-⭐ **Fun Challenge:** _How many programming languages does it take to change a lightbulb? None – that's a hardware problem!_ 😄
+### 🖥️ Core Stack  
+<code><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"></code>  
+<code><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" alt="Django"></code>  
+<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"></code>  
+<code><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"></code>  
+
+### 🌐 Data & DevOps  
+<code><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"></code>  
+<code><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"></code>  
+
+### 🧠 AI/ML Toolkit  
+<code><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"></code>  
+<code><img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" alt="Scikit-learn"></code>  
+<code><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"></code>  
+<code><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"></code>  
+
+---
+
+## 📡 Connect  
+- 📧 [waqaskhosa99@gmail.com](mailto:waqaskhosa99@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/waqas-baloch)  
+- 🌍 [Portfolio](https://github.com/Waqas-Baloch99/portfolio)  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Waqas-Baloch99&color=brightgreen&style=flat-square" alt="Profile views">
+</p>
+
+---
+
+## 📊 Code Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Waqas-Baloch99&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Baloch99&layout=compact&theme=dracula" alt="Top Languages">
+</p>
+
+---
+
+> **Code Trivia:** *How many languages to change a lightbulb? Zero – I’d rather debug the socket!* 😎
