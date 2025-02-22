@@ -16,43 +16,42 @@
 
 ---
 
-## 🌟 About Me  
-Full Stack Python Developer | AI & ML Enthusiast  
-I craft scalable solutions and harness AI to solve real-world problems with code that’s clean, efficient, and impactful.
+## 🌟 About Me
+I’m Waqas Baloch, a Full Stack Python Developer and AI & ML Enthusiast. I specialize in crafting scalable solutions and leveraging AI to solve real-world problems with clean, efficient, and impactful code.
 
-### 🔥 What’s Cooking  
+### 🔥 What’s Cooking
 - **Building:** Portfolio site with Django + React  
 - **Learning:** AI/ML (Python, TensorFlow, Scikit-learn)  
 - **Collab Goals:** AI apps, open-source, SaaS projects  
 - **Chat About:** Django, APIs, Security, AI Basics  
-- **Fun Byte:** Automated a task to save hours weekly!  
+- **Fun Byte:** Automated a task to save hours weekly!
 
 ---
 
-## 🧰 Tech Arsenal  
+## 🧰 Tech Arsenal
 
-### 🖥️ Core Stack  
+### 🖥️ Core Stack
 <code><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"></code>  
 <code><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" alt="Django"></code>  
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"></code>  
-<code><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"></code>  
+<code><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"></code>
 
-### 🌐 Data & DevOps  
+### 🌐 Data & DevOps
 <code><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"></code>  
-<code><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"></code>  
+<code><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"></code>
 
-### 🧠 AI/ML Toolkit  
+### 🧠 AI/ML Toolkit
 <code><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"></code>  
 <code><img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" alt="Scikit-learn"></code>  
 <code><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas"></code>  
-<code><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"></code>  
+<code><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy"></code>
 
 ---
 
-## 📡 Connect  
+## 📡 Connect
 - 📧 [waqaskhosa99@gmail.com](mailto:waqaskhosa99@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/waqas-baloch)  
-- 🌍 [Portfolio](https://github.com/Waqas-Baloch99/portfolio)  
+- 🌍 [Portfolio](https://github.com/Waqas-Baloch99/portfolio)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Waqas-Baloch99&color=brightgreen&style=flat-square" alt="Profile views">
@@ -60,7 +59,7 @@ I craft scalable solutions and harness AI to solve real-world problems with code
 
 ---
 
-## 📊 Code Stats  
+## 📊 Code Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Waqas-Baloch99&show_icons=true&theme=dracula" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Baloch99&layout=compact&theme=dracula" alt="Top Languages">
